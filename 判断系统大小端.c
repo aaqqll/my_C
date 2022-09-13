@@ -8,8 +8,8 @@ int main()
 {
 	int ret=check_sys();
 	if(ret==1)
-		printf("Ğ¡¶Ë");
+		printf("ÃÂ¡Â¶Ã‹");
 	else
-		printf("´ó¶Ë");
+		printf("Â´Ã³Â¶Ã‹");
 	return 0;
 }
